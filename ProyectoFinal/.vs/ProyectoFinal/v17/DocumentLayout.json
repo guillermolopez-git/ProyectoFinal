@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PROYECTOFINAL\\ProyectoFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{672A4994-49A7-4C0A-A9B4-C362A65B839F}|ProyectoFinal.csproj|C:\\PROYECTOFINAL\\ProyectoFinal\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{672A4994-49A7-4C0A-A9B4-C362A65B839F}|ProyectoFinal.csproj|solutionrelative:form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672A4994-49A7-4C0A-A9B4-C362A65B839F}|ProyectoFinal.csproj|C:\\PROYECTOFINAL\\ProyectoFinal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{672A4994-49A7-4C0A-A9B4-C362A65B839F}|ProyectoFinal.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672A4994-49A7-4C0A-A9B4-C362A65B839F}|ProyectoFinal.csproj|C:\\PROYECTOFINAL\\ProyectoFinal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{672A4994-49A7-4C0A-A9B4-C362A65B839F}|ProyectoFinal.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672A4994-49A7-4C0A-A9B4-C362A65B839F}|ProyectoFinal.csproj|C:\\PROYECTOFINAL\\ProyectoFinal\\data\\equipos.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{672A4994-49A7-4C0A-A9B4-C362A65B839F}|ProyectoFinal.csproj|solutionrelative:data\\equipos.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672A4994-49A7-4C0A-A9B4-C362A65B839F}|ProyectoFinal.csproj|C:\\PROYECTOFINAL\\ProyectoFinal\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{672A4994-49A7-4C0A-A9B4-C362A65B839F}|ProyectoFinal.csproj|solutionrelative:form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672A4994-49A7-4C0A-A9B4-C362A65B839F}|ProyectoFinal.csproj|C:\\PROYECTOFINAL\\ProyectoFinal\\tablahash\\hashtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{672A4994-49A7-4C0A-A9B4-C362A65B839F}|ProyectoFinal.csproj|solutionrelative:tablahash\\hashtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672A4994-49A7-4C0A-A9B4-C362A65B839F}|ProyectoFinal.csproj|C:\\PROYECTOFINAL\\ProyectoFinal\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{672A4994-49A7-4C0A-A9B4-C362A65B839F}|ProyectoFinal.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672A4994-49A7-4C0A-A9B4-C362A65B839F}|ProyectoFinal.csproj|C:\\PROYECTOFINAL\\ProyectoFinal\\data\\jugadores.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{672A4994-49A7-4C0A-A9B4-C362A65B839F}|ProyectoFinal.csproj|solutionrelative:data\\jugadores.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672A4994-49A7-4C0A-A9B4-C362A65B839F}|ProyectoFinal.csproj|C:\\PROYECTOFINAL\\ProyectoFinal\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{672A4994-49A7-4C0A-A9B4-C362A65B839F}|ProyectoFinal.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672A4994-49A7-4C0A-A9B4-C362A65B839F}|ProyectoFinal.csproj|C:\\PROYECTOFINAL\\ProyectoFinal\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{672A4994-49A7-4C0A-A9B4-C362A65B839F}|ProyectoFinal.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 117,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form6.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\PROYECTOFINAL\\ProyectoFinal\\Form6.cs",
+              "RelativeDocumentMoniker": "Form6.cs",
+              "ToolTip": "C:\\PROYECTOFINAL\\ProyectoFinal\\Form6.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form6.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T21:59:14.747Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\PROYECTOFINAL\\ProyectoFinal\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\PROYECTOFINAL\\ProyectoFinal\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAkwGMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T02:13:34.673Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\PROYECTOFINAL\\ProyectoFinal\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\PROYECTOFINAL\\ProyectoFinal\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T05:12:55.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form6.cs",
+              "DocumentMoniker": "C:\\PROYECTOFINAL\\ProyectoFinal\\Form6.cs",
+              "RelativeDocumentMoniker": "Form6.cs",
+              "ToolTip": "C:\\PROYECTOFINAL\\ProyectoFinal\\Form6.cs",
+              "RelativeToolTip": "Form6.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAwE4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T04:40:46.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\PROYECTOFINAL\\ProyectoFinal\\Form4.cs",
+              "RelativeDocumentMoniker": "Form4.cs",
+              "ToolTip": "C:\\PROYECTOFINAL\\ProyectoFinal\\Form4.cs",
+              "RelativeToolTip": "Form4.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAIAwwEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T04:21:16.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form4.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\PROYECTOFINAL\\ProyectoFinal\\Form4.cs",
+              "RelativeDocumentMoniker": "Form4.cs",
+              "ToolTip": "C:\\PROYECTOFINAL\\ProyectoFinal\\Form4.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form4.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T04:21:13.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "jugadores.csv",
+              "DocumentMoniker": "C:\\PROYECTOFINAL\\ProyectoFinal\\Data\\jugadores.csv",
+              "RelativeDocumentMoniker": "Data\\jugadores.csv",
+              "ToolTip": "C:\\PROYECTOFINAL\\ProyectoFinal\\Data\\jugadores.csv",
+              "RelativeToolTip": "Data\\jugadores.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-06-06T04:11:42.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "equipos.csv",
+              "DocumentMoniker": "C:\\PROYECTOFINAL\\ProyectoFinal\\Data\\equipos.csv",
+              "RelativeDocumentMoniker": "Data\\equipos.csv",
+              "ToolTip": "C:\\PROYECTOFINAL\\ProyectoFinal\\Data\\equipos.csv",
+              "RelativeToolTip": "Data\\equipos.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-06-06T04:11:39.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HashTable.cs",
+              "DocumentMoniker": "C:\\PROYECTOFINAL\\ProyectoFinal\\TablaHash\\HashTable.cs",
+              "RelativeDocumentMoniker": "TablaHash\\HashTable.cs",
+              "ToolTip": "C:\\PROYECTOFINAL\\ProyectoFinal\\TablaHash\\HashTable.cs",
+              "RelativeToolTip": "TablaHash\\HashTable.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T20:39:36.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\PROYECTOFINAL\\ProyectoFinal\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\PROYECTOFINAL\\ProyectoFinal\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAhwCQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T04:18:44.13Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
